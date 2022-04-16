@@ -6,6 +6,8 @@ Developing and exploring web development. I am still full stack and working on i
 * I am a student at HackYourFuture.
 * I am currently learning JavaScript.
 * I’m looking to collaborate on HTML, CSS, JavaScript
+* [LinkedIn](https://bit.ly/3JHvEfy)
+* [CodePen](https://bit.ly/3uNJsRG)
 
 
 

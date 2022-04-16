@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hey there 👋,This is *Amr Yehia*
+
+Developing and exploring web development. I am still full stack and working on it.
+
+* Bachelor in Management Information System
+* I am a student at HackYourFuture.
+* I am currently learning JavaScript.
+* I’m looking to collaborate on HTML, CSS, JavaScript
+
+
 
 <!--
 **Amr-Yehia/Amr-Yehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
